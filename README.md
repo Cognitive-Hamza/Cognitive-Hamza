@@ -30,7 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cognitive-hamza&show_icons=true&locale=en&layout=compact" alt="cognitive-hamza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cognitive-hamza&show_icons=true&locale=en" alt="cognitive-hamza" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cognitive-hamza&" alt="cognitive-hamza" /></p>
 
