@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cognitive-Hamza](https://github.com/Cognitive-Hamza)
 
-- 📫 How to reach me **muhammadhamzansari09@gmail.com**
+- 📫 How to reach me **muhammadhamzaansari09@gmail.com**
 
 - ⚡ Fun fact **Passionate for learning more about AI**
 
