@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AiOps**
 
-- 🤝 I’m looking for help with **AiOps/DevOps Engineering**
+- 🤝 I’m looking for help with **AiOps/DevOps/SysOps CCS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cognitive-Hamza](https://github.com/Cognitive-Hamza)
 
